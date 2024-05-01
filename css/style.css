@@ -1,0 +1,90 @@
+* {
+  box-sizing: content-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background: #eeeeee;
+}
+
+.container {
+  background-color: white;
+  margin: auto;
+  padding: 16px;
+  border-color: red 10px;
+  width: 960px;
+  border: solid 1px;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 64px;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+.prez {
+  font-weight: bold;
+  text-align: center;
+  font-size: 32px;
+  color: black;
+}
+
+.synopis {
+  font-weight: bold;
+  text-align: center;
+  font-size: 32px;
+  color: #8b0000;
+  padding: 16px;
+}
+
+.encadre {
+  background-color: #eeeeee;
+  margin: auto;
+  padding: 16px;
+  width: 700px;
+}
+
+footer {
+  text-align: center;
+  background: #eeeeee;
+  margin: auto;
+  padding: 16px;
+  width: 700px;
+}
+
+hr {
+  color: #8b0000;
+}
+
+.diffusion {
+  text-align: center;
+  font-style: italic;
+  font-size: 16px;
+}
+
+strong {
+  font-weight: bold;
+}
+
+.cartouche{
+  display: inline;
+  font-size : 25px;
+  padding-left : 10px;
+  padding-right: 10px;
+  padding-top : 5px;
+  padding-bottom :5px;
+  margin-left: 10px;
+  color :white;
+  background-color: black;
+}
